@@ -110,7 +110,7 @@ Utiliza H2 para testes locais. A interface do console H2 pode ser acessada via:
 http://localhost:8080/h2-console
 ```
 
-- JDBC URL: `jdbc:h2:mem:testdb`
+- JDBC URL: `jdbc:postgresql://localhost:5432/steamroxo`
 - Usuário: `usuario`
 - Senha: 'Senha@123'
 
